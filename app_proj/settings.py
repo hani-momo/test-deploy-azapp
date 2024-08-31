@@ -27,12 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'test-deployed-app-hbh3cfduhza7a5aj.eastus-01.azurewebsites.net',
-    'localhost',
-    '127.0.0.1',
 ]
-
-
-
 
 # Application definition
 
